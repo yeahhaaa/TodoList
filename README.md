@@ -5,16 +5,5 @@
 📌 Description
    오늘의 할일 list 추가 / 삭제 기능 구현
 
-📌 개발 환경 설정
-  - OS X & 리눅스:
-  npm install my-crazy-module --save
-  
-  - 윈도우:
-  edit autoexec.bat
 
-📌 기여 방법
-  (https://github.com/yeahhaaa/sns_service)을 포크합니다.
-  (git checkout -b feature/fooBar) 명령어로 새 브랜치를 만드세요.
-  (git commit -am 'Add some fooBar') 명령어로 커밋하세요.
-  (git push origin feature/fooBar) 명령어로 브랜치에 푸시하세요. 
-  풀리퀘스트를 보내주세요.
+📌 [Go to Link!](https://yaejistodo.netlify.app/)
